@@ -1,0 +1,21 @@
+.odd{
+    background-color: pink;
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif; 
+}
+.odd.big{
+    background-color: pink;
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px; 
+}
+#eventwo{
+    color: blue;
+    font-size: 36px;
+}
+#evenfour{
+    color: black;
+    font-size: 24px;
+    font-weight: 800;
+    background-color: lightgreen;
+}
